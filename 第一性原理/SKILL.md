@@ -1,5 +1,5 @@
 ---
-name: First Principles Thinking
+name: 第一性原理
 description: This skill should be used when the user asks to "analyze from first principles", "第一性原理", "从根本分析", "从零开始思考", "think from scratch", "question this design", "这个设计合理吗", "is this the right approach", "为什么要这样做", "why are we doing it this way", "为什么还在用这个方案", "should we still use", "这个技术选型还合理吗", "is this choice still valid", "有没有更好的方案", "is there a better solution", "challenge assumptions", "挑战假设", or needs to evaluate whether CURRENT/FUTURE architectural decisions, design choices, or technical approaches are fundamentally sound by reasoning from ground truths. Use for questioning necessity and optimality. ⚠️ If tracing HOW/WHY a past decision was originally made, use 5-whys instead.
 version: 0.2.0
 ---
